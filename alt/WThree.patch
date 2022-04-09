@@ -1,0 +1,59 @@
+Common subdirectories: terminus-font-4.49.1.orig/alt and terminus-font-4.49.1/alt
+Common subdirectories: terminus-font-4.49.1.orig/bin and terminus-font-4.49.1/bin
+Common subdirectories: terminus-font-4.49.1.orig/dup and terminus-font-4.49.1/dup
+diff -u terminus-font-4.49.1.orig/ter-u18b.bdf terminus-font-4.49.1/ter-u18b.bdf
+--- terminus-font-4.49.1.orig/ter-u18b.bdf	2022-04-09 13:27:41.330062121 +0300
++++ terminus-font-4.49.1/ter-u18b.bdf	2022-04-09 13:34:22.570065522 +0300
+@@ -534,11 +534,11 @@
+ 0000
+ 0000
+ 0000
+-3F00
+-6180
+-6180
+-0180
++7F80
+ 0180
++0300
++0600
++0C00
+ 1F00
+ 0180
+ 0180
+@@ -2907,9 +2907,9 @@
+ BBX 10 18 0 -3
+ BITMAP
+ 0000
+-1E00
+-3300
++3F00
+ 0300
++0600
+ 0E00
+ 0300
+ 3300
+@@ -3183,8 +3183,8 @@
+ BITMAP
+ 0000
+ 0000
+-F000
+-1800
++F800
++3000
+ 7080
+ 1980
+ 1B00
+@@ -19215,9 +19215,9 @@
+ 0000
+ 0000
+ 0000
+-1E00
+-3300
++3F00
+ 0300
++0600
+ 0E00
+ 0300
+ 3300
+Common subdirectories: terminus-font-4.49.1.orig/uni and terminus-font-4.49.1/uni
+Common subdirectories: terminus-font-4.49.1.orig/win32 and terminus-font-4.49.1/win32

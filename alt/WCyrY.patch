@@ -1,0 +1,125 @@
+Common subdirectories: terminus-font-4.49.1.orig/alt and terminus-font-4.49.1/alt
+Common subdirectories: terminus-font-4.49.1.orig/bin and terminus-font-4.49.1/bin
+Common subdirectories: terminus-font-4.49.1.orig/dup and terminus-font-4.49.1/dup
+diff -u terminus-font-4.49.1.orig/ter-u18b.bdf terminus-font-4.49.1/ter-u18b.bdf
+--- terminus-font-4.49.1.orig/ter-u18b.bdf	2022-04-09 12:58:11.749047121 +0300
++++ terminus-font-4.49.1/ter-u18b.bdf	2022-04-09 13:07:26.761051825 +0300
+@@ -13009,18 +13009,18 @@
+ 0000
+ 0000
+ 0000
+-C180
+-C180
+-C180
+-C180
+-F980
+-CD80
+-CD80
+-CD80
+-CD80
+-CD80
+-CD80
+-F980
++6180
++6180
++6180
++6180
++7D80
++6680
++6680
++6680
++6680
++6680
++6680
++7D80
+ 0000
+ 0000
+ 0000
+@@ -13812,15 +13812,15 @@
+ 0000
+ 0000
+ 0000
+-C180
+-C180
+-C180
+-F980
+-CD80
+-CD80
+-CD80
+-CD80
+-F980
++6180
++6180
++6180
++7D80
++6680
++6680
++6680
++6680
++7D80
+ 0000
+ 0000
+ 0000
+@@ -16281,21 +16281,21 @@
+ DWIDTH 10 0
+ BBX 10 18 0 -3
+ BITMAP
+-6600
+-6600
++3300
++3300
+ 0000
+-C180
+-C180
+-C180
+-C180
+-F980
+-CD80
+-CD80
+-CD80
+-CD80
+-CD80
+-CD80
+-F980
++6180
++6180
++6180
++6180
++7D80
++6680
++6680
++6680
++6680
++6680
++6680
++7D80
+ 0000
+ 0000
+ 0000
+@@ -16312,15 +16312,15 @@
+ 3300
+ 3300
+ 0000
+-C180
+-C180
+-C180
+-F980
+-CD80
+-CD80
+-CD80
+-CD80
+-F980
++6180
++6180
++6180
++7D80
++6680
++6680
++6680
++6680
++7D80
+ 0000
+ 0000
+ 0000
+Common subdirectories: terminus-font-4.49.1.orig/uni and terminus-font-4.49.1/uni
+Common subdirectories: terminus-font-4.49.1.orig/win32 and terminus-font-4.49.1/win32

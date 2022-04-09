@@ -1,0 +1,98 @@
+Common subdirectories: terminus-font-4.49.1.orig/alt and terminus-font-4.49.1/alt
+Common subdirectories: terminus-font-4.49.1.orig/bin and terminus-font-4.49.1/bin
+Common subdirectories: terminus-font-4.49.1.orig/dup and terminus-font-4.49.1/dup
+diff -u terminus-font-4.49.1.orig/ter-u18b.bdf terminus-font-4.49.1/ter-u18b.bdf
+--- terminus-font-4.49.1.orig/ter-u18b.bdf	2022-04-09 13:55:18.992076173 +0300
++++ terminus-font-4.49.1/ter-u18b.bdf	2022-04-09 14:01:05.872079113 +0300
+@@ -13059,18 +13059,18 @@
+ 0000
+ 0000
+ 0000
+-3F00
+-6180
+-6180
++7E00
++0300
++0180
+ 0180
+ 0180
+ 1F80
+ 0180
+ 0180
+ 0180
+-6180
+-6180
+-3F00
++0180
++0300
++7E00
+ 0000
+ 0000
+ 0000
+@@ -13862,15 +13862,15 @@
+ 0000
+ 0000
+ 0000
+-3F00
+-6180
++7E00
++0300
+ 0180
+ 0180
+ 1F80
+ 0180
+ 0180
+-6180
+-3F00
++0300
++7E00
+ 0000
+ 0000
+ 0000
+@@ -16034,18 +16034,18 @@
+ 3300
+ 3300
+ 0000
+-3F00
+-6180
+-6180
++7E00
++0300
++0180
+ 0180
+ 0180
+ 1F80
+ 0180
+ 0180
+ 0180
+-6180
+-6180
+-3F00
++0180
++0300
++7E00
+ 0000
+ 0000
+ 0000
+@@ -16062,15 +16062,15 @@
+ 3300
+ 3300
+ 0000
+-3F00
+-6180
++7E00
++0300
+ 0180
+ 0180
+ 1F80
+ 0180
+ 0180
+-6180
+-3F00
++0300
++7E00
+ 0000
+ 0000
+ 0000
+Common subdirectories: terminus-font-4.49.1.orig/uni and terminus-font-4.49.1/uni
+Common subdirectories: terminus-font-4.49.1.orig/win32 and terminus-font-4.49.1/win32
