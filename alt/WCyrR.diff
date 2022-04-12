@@ -1,0 +1,27 @@
+Common subdirectories: terminus-font-4.49.1.orig/alt and terminus-font-4.49.1/alt
+Common subdirectories: terminus-font-4.49.1.orig/bin and terminus-font-4.49.1/bin
+Common subdirectories: terminus-font-4.49.1.orig/dup and terminus-font-4.49.1/dup
+diff -u terminus-font-4.49.1.orig/ter-u18b.bdf terminus-font-4.49.1/ter-u18b.bdf
+--- terminus-font-4.49.1.orig/ter-u18b.bdf	2022-04-12 17:16:05.926126365 +0300
++++ terminus-font-4.49.1/ter-u18b.bdf	2022-04-12 17:44:35.006840610 +0300
+@@ -13541,14 +13541,14 @@
+ 6180
+ 6180
+ 6180
+-6180
+-6180
+-6180
+-6180
+ 7F00
+ 6000
+ 6000
+ 6000
++6000
++0000
++0000
++0000
+ ENDCHAR
+ STARTCHAR afii10083
+ ENCODING 1089
+Common subdirectories: terminus-font-4.49.1.orig/uni and terminus-font-4.49.1/uni
+Common subdirectories: terminus-font-4.49.1.orig/win32 and terminus-font-4.49.1/win32
