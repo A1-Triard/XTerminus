@@ -1,9 +1,244 @@
 Common subdirectories: terminus-font-4.49.1.orig/alt and terminus-font-4.49.1/alt
 Common subdirectories: terminus-font-4.49.1.orig/bin and terminus-font-4.49.1/bin
 Common subdirectories: terminus-font-4.49.1.orig/dup and terminus-font-4.49.1/dup
+diff -u terminus-font-4.49.1.orig/ter-u16b.bdf terminus-font-4.49.1/ter-u16b.bdf
+--- terminus-font-4.49.1.orig/ter-u16b.bdf	2023-01-08 19:04:33.065276198 +0300
++++ terminus-font-4.49.1/ter-u16b.bdf	2023-01-08 19:26:57.077946652 +0300
+@@ -815,9 +815,9 @@
+ BITMAP
+ 00
+ 00
+-7C
+-C6
+-C6
++10
++38
++6C
+ C6
+ C6
+ FE
+@@ -2978,8 +2978,8 @@
+ 30
+ 18
+ 00
+-7C
+-C6
++38
++6C
+ C6
+ C6
+ FE
+@@ -3001,8 +3001,8 @@
+ 18
+ 30
+ 00
+-7C
+-C6
++38
++6C
+ C6
+ C6
+ FE
+@@ -3024,8 +3024,8 @@
+ 38
+ 6C
+ 00
+-7C
+-C6
++38
++6C
+ C6
+ C6
+ FE
+@@ -3047,8 +3047,8 @@
+ 76
+ DC
+ 00
+-7C
+-C6
++38
++6C
+ C6
+ C6
+ FE
+@@ -3070,8 +3070,8 @@
+ 6C
+ 6C
+ 00
+-7C
+-C6
++38
++6C
+ C6
+ C6
+ FE
+@@ -3093,8 +3093,8 @@
+ 38
+ 6C
+ 38
+-7C
+-C6
++38
++6C
+ C6
+ C6
+ FE
+@@ -3115,8 +3115,8 @@
+ BITMAP
+ 00
+ 00
+-7E
+-D8
++3E
++78
+ D8
+ D8
+ FE
+@@ -4449,9 +4449,9 @@
+ BITMAP
+ 7C
+ 00
+-7C
+-C6
+-C6
++10
++38
++6C
+ C6
+ C6
+ FE
+@@ -4496,8 +4496,8 @@
+ 6C
+ 38
+ 00
+-7C
+-C6
++38
++6C
+ C6
+ C6
+ FE
+@@ -4541,9 +4541,9 @@
+ BITMAP
+ 00
+ 00
+-7C
+-C6
+-C6
++10
++38
++6C
+ C6
+ C6
+ FE
+@@ -7624,8 +7624,8 @@
+ 6C
+ 38
+ 00
+-7C
+-C6
++38
++6C
+ C6
+ C6
+ FE
+@@ -7807,8 +7807,8 @@
+ BITMAP
+ 7C
+ 00
+-7E
+-D8
++3E
++78
+ D8
+ D8
+ FE
+@@ -8199,8 +8199,8 @@
+ 0C
+ 18
+ 00
+-7E
+-D8
++3E
++78
+ D8
+ D8
+ FE
+@@ -9164,9 +9164,9 @@
+ BITMAP
+ 60
+ C0
+-7C
+-C6
+-C6
++10
++38
++6C
+ C6
+ C6
+ FE
+@@ -9371,9 +9371,9 @@
+ BITMAP
+ 00
+ 00
+-7C
+-C6
+-C6
++10
++38
++6C
+ C6
+ C6
+ FE
+@@ -11349,9 +11349,9 @@
+ BITMAP
+ 00
+ 00
+-7C
+-C6
+-C6
++10
++38
++6C
+ C6
+ C6
+ FE
+@@ -14156,8 +14156,8 @@
+ 6C
+ 38
+ 00
+-7C
+-C6
++38
++6C
+ C6
+ C6
+ FE
+@@ -14202,8 +14202,8 @@
+ 6C
+ 6C
+ 00
+-7C
+-C6
++38
++6C
+ C6
+ C6
+ FE
+@@ -14247,8 +14247,8 @@
+ BITMAP
+ 00
+ 00
+-7E
+-D8
++3E
++78
+ D8
+ D8
+ FE
 diff -u terminus-font-4.49.1.orig/ter-u18b.bdf terminus-font-4.49.1/ter-u18b.bdf
---- terminus-font-4.49.1.orig/ter-u18b.bdf	2022-04-09 13:22:21.904059413 +0300
-+++ terminus-font-4.49.1/ter-u18b.bdf	2022-04-09 13:26:10.801061354 +0300
+--- terminus-font-4.49.1.orig/ter-u18b.bdf	2023-01-08 19:04:33.065276198 +0300
++++ terminus-font-4.49.1/ter-u18b.bdf	2023-01-08 19:05:48.211879233 +0300
 @@ -884,9 +884,9 @@
  0000
  0000

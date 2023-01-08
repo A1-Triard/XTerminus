@@ -1,9 +1,59 @@
 Common subdirectories: terminus-font-4.49.1.orig/alt and terminus-font-4.49.1/alt
 Common subdirectories: terminus-font-4.49.1.orig/bin and terminus-font-4.49.1/bin
 Common subdirectories: terminus-font-4.49.1.orig/dup and terminus-font-4.49.1/dup
+diff -u terminus-font-4.49.1.orig/ter-u16b.bdf terminus-font-4.49.1/ter-u16b.bdf
+--- terminus-font-4.49.1.orig/ter-u16b.bdf	2023-01-08 19:04:33.065276198 +0300
++++ terminus-font-4.49.1/ter-u16b.bdf	2023-01-08 20:15:17.524295407 +0300
+@@ -493,10 +493,10 @@
+ BITMAP
+ 00
+ 00
+-7C
+-C6
+-C6
++FE
+ 06
++0C
++18
+ 3C
+ 06
+ 06
+@@ -2677,8 +2677,8 @@
+ BBX 8 16 0 -4
+ BITMAP
+ 00
+-78
+-0C
++7C
++18
+ 38
+ 0C
+ 0C
+@@ -2930,8 +2930,8 @@
+ BBX 8 16 0 -4
+ BITMAP
+ 00
+-E0
+-30
++F0
++20
+ 62
+ 36
+ EC
+@@ -17679,8 +17679,8 @@
+ 00
+ 00
+ 00
+-78
+-0C
++7C
++18
+ 38
+ 0C
+ 0C
 diff -u terminus-font-4.49.1.orig/ter-u18b.bdf terminus-font-4.49.1/ter-u18b.bdf
---- terminus-font-4.49.1.orig/ter-u18b.bdf	2022-04-09 13:27:41.330062121 +0300
-+++ terminus-font-4.49.1/ter-u18b.bdf	2022-04-09 13:34:22.570065522 +0300
+--- terminus-font-4.49.1.orig/ter-u18b.bdf	2023-01-08 19:04:33.065276198 +0300
++++ terminus-font-4.49.1/ter-u18b.bdf	2023-01-08 20:04:31.634290211 +0300
 @@ -534,11 +534,11 @@
  0000
  0000
