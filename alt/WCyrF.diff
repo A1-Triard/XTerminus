@@ -1,9 +1,33 @@
 Common subdirectories: terminus-font-4.49.1.orig/alt and terminus-font-4.49.1/alt
 Common subdirectories: terminus-font-4.49.1.orig/bin and terminus-font-4.49.1/bin
 Common subdirectories: terminus-font-4.49.1.orig/dup and terminus-font-4.49.1/dup
+diff -u terminus-font-4.49.1.orig/ter-u14b.bdf terminus-font-4.49.1/ter-u14b.bdf
+--- terminus-font-4.49.1.orig/ter-u14b.bdf	2023-01-09 09:11:21.684264997 +0300
++++ terminus-font-4.49.1/ter-u14b.bdf	2023-01-09 09:31:44.753988451 +0300
+@@ -10784,6 +10784,7 @@
+ BBX 8 14 0 -2
+ BITMAP
+ 00
++00
+ 10
+ 7C
+ D6
+@@ -10792,11 +10793,10 @@
+ D6
+ D6
+ D6
+-D6
+-D6
+ 7C
+ 10
+ 00
++00
+ ENDCHAR
+ STARTCHAR afii10039
+ ENCODING 1061
 diff -u terminus-font-4.49.1.orig/ter-u16b.bdf terminus-font-4.49.1/ter-u16b.bdf
---- terminus-font-4.49.1.orig/ter-u16b.bdf	2023-01-08 19:04:33.065276198 +0300
-+++ terminus-font-4.49.1/ter-u16b.bdf	2023-01-08 19:51:32.187844123 +0300
+--- terminus-font-4.49.1.orig/ter-u16b.bdf	2023-01-09 09:11:21.684264997 +0300
++++ terminus-font-4.49.1/ter-u16b.bdf	2023-01-09 09:29:46.566802075 +0300
 @@ -11808,6 +11808,7 @@
  BBX 8 16 0 -4
  BITMAP
@@ -28,8 +52,8 @@ diff -u terminus-font-4.49.1.orig/ter-u16b.bdf terminus-font-4.49.1/ter-u16b.bdf
  STARTCHAR afii10039
  ENCODING 1061
 diff -u terminus-font-4.49.1.orig/ter-u18b.bdf terminus-font-4.49.1/ter-u18b.bdf
---- terminus-font-4.49.1.orig/ter-u18b.bdf	2023-01-08 19:04:33.065276198 +0300
-+++ terminus-font-4.49.1/ter-u18b.bdf	2023-01-08 19:47:00.254645867 +0300
+--- terminus-font-4.49.1.orig/ter-u18b.bdf	2023-01-09 09:11:21.684264997 +0300
++++ terminus-font-4.49.1/ter-u18b.bdf	2023-01-09 09:29:46.570135423 +0300
 @@ -11735,7 +11735,7 @@
  0000
  0000
