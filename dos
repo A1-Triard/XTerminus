@@ -3,6 +3,9 @@ set -eu
 
 cd "$(dirname "$(realpath "$0")")"
 
+python bin/ucstoany.py ter-u14b.bdf IBM CP808 uni/cntrl.uni uni/ascii-h.uni uni/ibm-808.uni > ts14_808.bdf
+python bin/bdftopsf.py -r -G ts14_808.bdf dup/cntrl.dup dup/ascii-h.dup dup/ibm-437.dup > ts14_808.fnt
+rm -f ts14_808.bdf
 python bin/ucstoany.py ter-u16b.bdf IBM CP808 uni/cntrl.uni uni/ascii-h.uni uni/ibm-808.uni > ts16_808.bdf
 python bin/bdftopsf.py -r -G ts16_808.bdf dup/cntrl.dup dup/ascii-h.dup dup/ibm-437.dup > ts16_808.fnt
 rm -f ts16_808.bdf
