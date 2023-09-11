@@ -2,8 +2,8 @@ Common subdirectories: terminus-font-4.49.1.orig/alt and terminus-font-4.49.1/al
 Common subdirectories: terminus-font-4.49.1.orig/bin and terminus-font-4.49.1/bin
 Common subdirectories: terminus-font-4.49.1.orig/dup and terminus-font-4.49.1/dup
 diff -u terminus-font-4.49.1.orig/ter-u14b.bdf terminus-font-4.49.1/ter-u14b.bdf
---- terminus-font-4.49.1.orig/ter-u14b.bdf	2023-01-09 09:11:21.684264997 +0300
-+++ terminus-font-4.49.1/ter-u14b.bdf	2023-01-09 09:35:24.908265465 +0300
+--- terminus-font-4.49.1.orig/ter-u14b.bdf	2023-09-11 22:10:29.524309844 +0300
++++ terminus-font-4.49.1/ter-u14b.bdf	2023-09-11 23:36:19.020286579 +0300
 @@ -10911,16 +10911,16 @@
  BITMAP
  00
@@ -53,8 +53,8 @@ diff -u terminus-font-4.49.1.orig/ter-u14b.bdf terminus-font-4.49.1/ter-u14b.bdf
  00
  ENDCHAR
 diff -u terminus-font-4.49.1.orig/ter-u16b.bdf terminus-font-4.49.1/ter-u16b.bdf
---- terminus-font-4.49.1.orig/ter-u16b.bdf	2023-01-09 09:11:21.684264997 +0300
-+++ terminus-font-4.49.1/ter-u16b.bdf	2023-01-09 09:33:04.127665595 +0300
+--- terminus-font-4.49.1.orig/ter-u16b.bdf	2023-09-11 22:10:29.517643166 +0300
++++ terminus-font-4.49.1/ter-u16b.bdf	2023-09-11 23:36:19.030286547 +0300
 @@ -11947,16 +11947,16 @@
  BITMAP
  00
@@ -104,8 +104,8 @@ diff -u terminus-font-4.49.1.orig/ter-u16b.bdf terminus-font-4.49.1/ter-u16b.bdf
  00
  00
 diff -u terminus-font-4.49.1.orig/ter-u18b.bdf terminus-font-4.49.1/ter-u18b.bdf
---- terminus-font-4.49.1.orig/ter-u18b.bdf	2023-01-09 09:11:21.684264997 +0300
-+++ terminus-font-4.49.1/ter-u18b.bdf	2023-01-09 09:33:04.130998942 +0300
+--- terminus-font-4.49.1.orig/ter-u18b.bdf	2023-09-11 22:10:29.517643166 +0300
++++ terminus-font-4.49.1/ter-u18b.bdf	2023-09-11 23:36:19.033619869 +0300
 @@ -12984,18 +12984,18 @@
  0000
  0000
@@ -138,6 +138,67 @@ diff -u terminus-font-4.49.1.orig/ter-u18b.bdf terminus-font-4.49.1/ter-u18b.bdf
  0000
  0000
 @@ -13787,15 +13787,15 @@
+ 0000
+ 0000
+ 0000
+-7000
+-3000
+-3000
+-3F00
+-3180
+-3180
+-3180
+-3180
+-3F00
++7800
++1800
++1800
++1F00
++1980
++1980
++1980
++1980
++1F00
+ 0000
+ 0000
+ 0000
+diff -u terminus-font-4.49.1.orig/ter-u20b.bdf terminus-font-4.49.1/ter-u20b.bdf
+--- terminus-font-4.49.1.orig/ter-u20b.bdf	2023-09-11 22:10:29.520976505 +0300
++++ terminus-font-4.49.1/ter-u20b.bdf	2023-09-11 23:41:18.056003782 +0300
+@@ -14020,19 +14020,19 @@
+ 0000
+ 0000
+ 0000
+-E000
+-E000
+-6000
+-6000
+-7F00
+-6180
+-6180
+-6180
+-6180
+-6180
+-6180
+-6180
+-7F00
++F000
++3000
++3000
++3000
++3F00
++3180
++3180
++3180
++3180
++3180
++3180
++3180
++3F00
+ 0000
+ 0000
+ 0000
+@@ -14888,15 +14888,15 @@
  0000
  0000
  0000
