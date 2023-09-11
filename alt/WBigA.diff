@@ -3,7 +3,7 @@ Common subdirectories: terminus-font-4.49.1.orig/bin and terminus-font-4.49.1/bi
 Common subdirectories: terminus-font-4.49.1.orig/dup and terminus-font-4.49.1/dup
 diff -u terminus-font-4.49.1.orig/ter-u14b.bdf terminus-font-4.49.1/ter-u14b.bdf
 --- terminus-font-4.49.1.orig/ter-u14b.bdf	2023-09-11 22:10:29.524309844 +0300
-+++ terminus-font-4.49.1/ter-u14b.bdf	2023-09-11 22:10:51.234346648 +0300
++++ terminus-font-4.49.1/ter-u14b.bdf	2023-09-11 23:44:17.635450332 +0300
 @@ -747,9 +747,9 @@
  BITMAP
  00
@@ -234,7 +234,7 @@ diff -u terminus-font-4.49.1.orig/ter-u14b.bdf terminus-font-4.49.1/ter-u14b.bdf
  FE
 diff -u terminus-font-4.49.1.orig/ter-u16b.bdf terminus-font-4.49.1/ter-u16b.bdf
 --- terminus-font-4.49.1.orig/ter-u16b.bdf	2023-09-11 22:10:29.517643166 +0300
-+++ terminus-font-4.49.1/ter-u16b.bdf	2023-09-11 22:10:51.241013327 +0300
++++ terminus-font-4.49.1/ter-u16b.bdf	2023-09-11 23:44:17.642116979 +0300
 @@ -815,9 +815,9 @@
  BITMAP
  00
@@ -469,7 +469,7 @@ diff -u terminus-font-4.49.1.orig/ter-u16b.bdf terminus-font-4.49.1/ter-u16b.bdf
  FE
 diff -u terminus-font-4.49.1.orig/ter-u18b.bdf terminus-font-4.49.1/ter-u18b.bdf
 --- terminus-font-4.49.1.orig/ter-u18b.bdf	2023-09-11 22:10:29.517643166 +0300
-+++ terminus-font-4.49.1/ter-u18b.bdf	2023-09-11 22:10:51.244346666 +0300
++++ terminus-font-4.49.1/ter-u18b.bdf	2023-09-11 23:44:17.648783625 +0300
 @@ -884,9 +884,9 @@
  0000
  0000
@@ -732,7 +732,7 @@ diff -u terminus-font-4.49.1.orig/ter-u18b.bdf terminus-font-4.49.1/ter-u18b.bdf
  FFC0
 diff -u terminus-font-4.49.1.orig/ter-u20b.bdf terminus-font-4.49.1/ter-u20b.bdf
 --- terminus-font-4.49.1.orig/ter-u20b.bdf	2023-09-11 22:10:29.520976505 +0300
-+++ terminus-font-4.49.1/ter-u20b.bdf	2023-09-11 22:27:56.532730540 +0300
++++ terminus-font-4.49.1/ter-u20b.bdf	2023-09-11 23:47:49.091480546 +0300
 @@ -952,9 +952,9 @@
  0000
  0000
@@ -892,6 +892,19 @@ diff -u terminus-font-4.49.1.orig/ter-u20b.bdf terminus-font-4.49.1/ter-u20b.bdf
 @@ -9160,9 +9160,9 @@
  0000
  3F80
+ 0000
+-7FC0
+-C600
+-C600
++1FC0
++3600
++6600
+ C600
+ C600
+ C600
+@@ -9619,9 +9619,9 @@
+ 0600
+ 0C00
  0000
 -7FC0
 -C600
